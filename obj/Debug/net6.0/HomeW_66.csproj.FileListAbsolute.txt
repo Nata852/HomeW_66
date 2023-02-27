@@ -1,0 +1,15 @@
+D:\123\HomeW_66\bin\Debug\net6.0\HomeW_66.exe
+D:\123\HomeW_66\bin\Debug\net6.0\HomeW_66.deps.json
+D:\123\HomeW_66\bin\Debug\net6.0\HomeW_66.runtimeconfig.json
+D:\123\HomeW_66\bin\Debug\net6.0\HomeW_66.dll
+D:\123\HomeW_66\bin\Debug\net6.0\HomeW_66.pdb
+D:\123\HomeW_66\obj\Debug\net6.0\HomeW_66.csproj.AssemblyReference.cache
+D:\123\HomeW_66\obj\Debug\net6.0\HomeW_66.GeneratedMSBuildEditorConfig.editorconfig
+D:\123\HomeW_66\obj\Debug\net6.0\HomeW_66.AssemblyInfoInputs.cache
+D:\123\HomeW_66\obj\Debug\net6.0\HomeW_66.AssemblyInfo.cs
+D:\123\HomeW_66\obj\Debug\net6.0\HomeW_66.csproj.CoreCompileInputs.cache
+D:\123\HomeW_66\obj\Debug\net6.0\HomeW_66.dll
+D:\123\HomeW_66\obj\Debug\net6.0\refint\HomeW_66.dll
+D:\123\HomeW_66\obj\Debug\net6.0\HomeW_66.pdb
+D:\123\HomeW_66\obj\Debug\net6.0\HomeW_66.genruntimeconfig.cache
+D:\123\HomeW_66\obj\Debug\net6.0\ref\HomeW_66.dll
